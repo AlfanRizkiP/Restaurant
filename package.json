@@ -1,0 +1,23 @@
+{
+    "name": "Restaurant",
+    "version": "1.0.0",
+    "description": "",
+   
+    "scripts": {
+        "build": "echo \"No build specified\"",
+        "test": "echo \"No test specified\"",
+        "start": "echo \"starting\""
+    },
+
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlfanRizkiP/Restaurant.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlfanRizkiP/Restaurant/issues"
+    },
+    "homepage": "https://github.com/AlfanRizkiP/Restaurant#readme"
+}
